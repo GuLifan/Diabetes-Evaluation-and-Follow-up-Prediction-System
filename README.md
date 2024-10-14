@@ -5,6 +5,8 @@
 * [Development Completion Date]  2024/09/28 <br/>
 * [First Copyright Holder] Qiang Wei 强薇 <br/>
 * [Second Copyright Holder] Gu Lifan 谷立帆 <br/>
+* [Third Copyright Holder] Dong Ruiqing 董睿青 <br/>
+.etc
 * [Developer] Gu Lifan 谷立帆 <br/> 
 * [Organization] The First Affiliated Hospital of Xi'an Jiaotong University 西安交通大学第一附属医院 <br/> 
 
